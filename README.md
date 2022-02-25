@@ -29,5 +29,6 @@ jupiterlab Anaconda (python)
 Git bash 
 
 github 
+
 Nos descargamos el examen en nuestro escritorio 
 Se realiza el control de la version, por lo cual se crea un directorio para solucionar desde nuestra computadora los problemas o ejercicios en gitbash. Tambien colocamos git pull para actualizar el contenido de nuestro repositorio y para que cargue el documento en GitHub colocamos el git commit y  git push.
