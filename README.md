@@ -30,5 +30,5 @@ Git bash
 
 github 
 
-Nos descargamos el examen en nuestro escritorio y creamos una carpeta, donde se  creo un archivo miningscience.py donde se guardo las funciones  download_pubmed y mining_pubs.
+Nos descargamos el examen en nuestro escritorio y creamos una carpeta, donde se  creo un archivo miningscience.py donde se guardo las funciones  download_pubmed y mining_pubs.Tambien se creo un arbol filogenetico.
 Luego se realiza el control de la version, por lo cual se crea un directorio para solucionar desde nuestra computadora los problemas o ejercicios en gitbash. Tambien colocamos git pull para actualizar el contenido de nuestro repositorio y para que cargue el documento en GitHub colocamos el git commit y  git push.
